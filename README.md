@@ -43,29 +43,24 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 - Select **Local Disk** → **next** 
 
-<img width="737" height="389" alt="image" src="https://github.com/user-attachments/assets/ca3f4b05-17c6-47bf-afff-e2b8252c3100" />
-
+<img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/42406b54-93b1-4675-8458-fd82b5c3d2b0" />
 
 - Select Disk → **Choose the VHD drive (`Drive1`)**
 
-<img width="1920" height="1080" alt="Screenshot (312)" src="https://github.com/user-attachments/assets/6fdf53d7-550e-4562-a23a-c8519f91ff18" />
-
+<img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/c5208aee-2e69-481d-b490-7311d9b2c5b5" />
 
 - Click **Next** → Keep default settings → Click **Finish**.  
 - Wait for Autopsy to process the disk.  
 
 ### **Recover Deleted Files**  
 - Go to **File Views** (left panel).  
-<img width="1920" height="1080" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/20c8feb3-c1da-4a77-a5aa-d6b9656c5646" />
 
-<img width="1920" height="1080" alt="Screenshot (313)" src="https://github.com/user-attachments/assets/43eaa3bd-ab40-4b04-8501-e8387783850c" />
-
+<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/25123b5b-d9e0-4d89-9257-03f0f46a9c6b" />
 
 - Click **Deleted Files** → Find your deleted images.  
 - Right-click an image → Click **Extract File**.  
 
-<img width="1920" height="1080" alt="Screenshot (316)" src="https://github.com/user-attachments/assets/ef1668e1-6614-48e6-8f6f-12bab0901157" />
-
+<img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/1c825643-ef5d-4429-a898-b2f4a3641104" />
 
 - Select a folder to see the recovered files (e.g., `C:\forensic`).  
 - Image is recovered successfully.
@@ -73,16 +68,13 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 ## Output :
 ### Folder before deleting the files
-<img width="1920" height="1080" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/6b565d7e-ecf8-4331-b3db-935434d7710a" />
-
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/97cdfccf-5e7a-48bd-a7c2-5ddc4510b9c7" />
 
 ### Folder after deleting the files
-<img width="1920" height="1080" alt="Screenshot (306)" src="https://github.com/user-attachments/assets/54e3e54d-3562-40c4-9ad3-a24381f13845" />
-
+<img width="1366" height="768" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/a8f00e6e-eedb-4a5c-9e0f-5a557cd7b1a9" />
 
 ### Folder after extracting the deleted images using autopsy
-<img width="1920" height="1080" alt="Screenshot (314)" src="https://github.com/user-attachments/assets/20e7e7ac-a654-4d5c-af56-708e05f779df" />
-
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/146eb5d9-5c7d-4f1f-a4b8-76ee30dcb9c0" />
 
 ## RESULT:
 Deleted files were successfully retrieved and analyzed using Autopsy.
